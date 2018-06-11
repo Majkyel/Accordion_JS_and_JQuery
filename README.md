@@ -1,1 +1,1 @@
-# https://github.com/Majkyel/Accordion_JS_and_JQuery.git
+# https://github.com/Majkyel/accordion_JS_JQuery
