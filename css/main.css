@@ -23,7 +23,7 @@ section {
       overflow: hidden;
       border: 1px solid #bbb;
       border-bottom: none;
-      transition: height 0.5s; }
+      transition: height .5s; }
     .accordion h3.active + div {
       height: 100px;
       overflow: auto; }
